@@ -1,4 +1,4 @@
-# Project: Task 6 - Creating and Evaluating a Unique Strong Password
+Creating and Evaluating a Unique Strong Password
 
 ## 1. Overview
 
